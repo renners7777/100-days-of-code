@@ -11,7 +11,7 @@ I have been learning to code for 3 months now so am not completely new to HTML a
 
 Days 4 and 5 of #100DaysOfCode:
 Watched Class02 of #100Devs from 
-@leonnoel. Enjoyable class learning html and designing chocolate brownie page (<h6>calories</h6>)!
+@leonnoel. Enjoyable class learning html and designing chocolate brownie page!
 
 Today I am learning to learn using coursera website.
 
