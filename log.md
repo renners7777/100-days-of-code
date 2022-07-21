@@ -11,9 +11,10 @@ I have been learning to code for 3 months now so am not completely new to HTML a
 
 #Days 4 and 5 of #100DaysOfCode:
 Watched Class02 of #100Devs from 
-@leonnoel. Enjoyable class learning html and designing chocolate brownie page!
+@leonnoel. Enjoyable class learning html and designing chocolate brownie page! Today I am learning to learn using coursera website.
 
-Today I am learning to learn using coursera website.
+Day 6 of #100DaysOfCode. 
+I have been Learning to Learn on Coursera specifically covering concepts such as chunking, retrieval practice, overlearning, interleaving, active recall, spaced repetition and so on. Using Anki for spaced repetition.
 
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
