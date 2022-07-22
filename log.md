@@ -16,6 +16,8 @@ Watched Class02 of #100Devs from
 Day 6 of #100DaysOfCode. 
 I have been Learning to Learn on Coursera specifically covering concepts such as chunking, retrieval practice, overlearning, interleaving, active recall, spaced repetition and so on. Using Anki for spaced repetition.
 
+Day7: Had a productive day today. Completed "Learning to Learn" coursera course. Then I started ShayHowe HTML/CSS learning and started following along with the website practice to put learning into practice - using VS Code. Keeping on with Anki too. I need to learn VIM properly to keep my hands/wrists in good working order!
+
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
