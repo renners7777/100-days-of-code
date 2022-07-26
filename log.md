@@ -18,6 +18,19 @@ I have been Learning to Learn on Coursera specifically covering concepts such as
 
 Day7: Had a productive day today. Completed "Learning to Learn" coursera course. Then I started ShayHowe HTML/CSS learning and started following along with the website practice to put learning into practice - using VS Code. Keeping on with Anki too. I need to learn VIM properly to keep my hands/wrists in good working order!
 
+Day 8: Started BBC website html homework and gearing up for Class03 
+@leonnoel
+ later on today. Can't wait.  He is very inspirational!
+
+Day 9: Built html only copy of bbc homepage for Class04 
+@leonnoel
+. Talked to fellow #100Devs colleague using Discord to discuss our html layouts before completing to get a feel for the task.
+
+Days 10 & 11: Tidied up my bbc html homework and submitted that. Today,  Anki and ShayHowe 3-4, typing practice. Going to delay Class04 
+@leonnoel
+ until I've completed ShayHowe 1-12. So Class04 end of week.
+
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
+https://codepen.io/renners7777/details/OJvjEdQ - bbc html homework
