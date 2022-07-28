@@ -38,4 +38,4 @@ Days 10 & 11: Tidied up my bbc html homework and submitted that. Today,  Anki an
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
 https://codepen.io/renners7777/details/OJvjEdQ - bbc html homework (also see https://github.com/renners7777/netlify BBC Workspace for the code).
-Day 13: https://crtechcrunchhomework.glitch.me/ + 
+Day 13: https://crtechcrunchhomework.glitch.me/ + https://cr-khan-academy-homework.glitch.me/
