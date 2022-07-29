@@ -32,7 +32,9 @@ Days 10 & 11: Tidied up my bbc html homework and submitted that. Today,  Anki an
  
  Day 12: Went through chapter 5 floats section in ShayHowe and have started watching Mayanwolfe Explains CSS Floats on Youtube to get a better understanding as it went in one ear and out the other! I got through lesson 2 in TypingTest.com. 
  
- Day 13: Completed Techcrunch html and Khan Academy html in Glitch and uploaded to Github. Reading: ShayHowe 6 - 7. Watched Class04 Learn with Leon on CSS. Typingtest.com - Lesson 3.
+ Day 13: Completed Techcrunch html and Khan Academy html in Glitch and uploaded to Github. Watched Class04 Learn with Leon on CSS. Typingtest.com - Lesson 3.
+ 
+ Day 14: Watched Mayanwolfe Explains Css Floats up to around 1.5 hour mark, read ShayHowe chapter 6, practiced my typing skills - going slowly as I am transitioning from touch typing using 2/3 fingers to touch typing using all fingers!
 
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
