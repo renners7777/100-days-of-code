@@ -35,6 +35,8 @@ Days 10 & 11: Tidied up my bbc html homework and submitted that. Today,  Anki an
  Day 13: Completed Techcrunch html and Khan Academy html in Glitch and uploaded to Github. Watched Class04 Learn with Leon on CSS. Typingtest.com - Lesson 3.
  
  Day 14: Watched Mayanwolfe Explains Css Floats up to around 1.5 hour mark, read ShayHowe chapter 6, practiced my typing skills - going slowly as I am transitioning from touch typing using 2/3 fingers to touch typing using all fingers!
+ 
+ Day 15: Read ShayHowe chapters 7-10 and completed Anki at the same time. Practiced my typing skills. 
 
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
