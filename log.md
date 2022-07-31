@@ -37,6 +37,9 @@ Days 10 & 11: Tidied up my bbc html homework and submitted that. Today,  Anki an
  Day 14: Watched Mayanwolfe Explains Css Floats up to around 1.5 hour mark, read ShayHowe chapter 6, practiced my typing skills - going slowly as I am transitioning from touch typing using 2/3 fingers to touch typing using all fingers!
  
  Day 15: Read ShayHowe chapters 7-10 and completed Anki at the same time. Practiced my typing skills. 
+ 
+ Day 16: Completed ShayHowe html-css 1-12:) Had coffee chat with @rfornal which was really helpful. Thanks. 
+Starting Class05 LearnwithLeon @leonnoel now but probably won't finish until tomorrow. 
 
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
