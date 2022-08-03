@@ -43,9 +43,12 @@ Starting Class05 LearnwithLeon @leonnoel now but probably won't finish until tom
 
 Day 17: Completed Class05 LearnwithLeon - considered specificity, box model, simple float layouts. Completed learnlayout.com - CSS learning. Completed 3 layouts for homework - see below. 
 
+Days 18+19: Completed Simple Site lab homework and read (worked on) Responsive Web Design in Advanced ShayHowe materials. Kept up with typing on keybr.com.
+
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
 https://codepen.io/renners7777/details/OJvjEdQ - bbc html homework (also see https://github.com/renners7777/netlify BBC Workspace for the code).
 Day 13: https://crtechcrunchhomework.glitch.me/ + https://cr-khan-academy-homework.glitch.me/
 Day 17: https://codepen.io/renners7777/pen/NWYyPOZ + https://codepen.io/renners7777/pen/VwXQYqx + https://codepen.io/renners7777/pen/gOevbZZ
+Days 18+19: https://100devs-simple-site-lab-cr.glitch.me/
