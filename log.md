@@ -47,6 +47,8 @@ Days 18+19: Completed Simple Site lab homework and read (worked on) Responsive W
 
 Days 20+21: Had a couple of days off #100Devs and started learning Javascript on Scrimba. Practiced typing on Peter's online typing course. Read Ch.1 of advanced ShayHowe.
 
+Days 22+23: Practiced typing using Peter's online typing course. Read chapters 1-4 of Advanced ShayHowe. Updated Ankiweb cards.
+
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
