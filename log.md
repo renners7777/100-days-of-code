@@ -49,6 +49,8 @@ Days 20+21: Had a couple of days off #100Devs and started learning Javascript on
 
 Days 22+23: Practiced typing using Peter's online typing course. Read chapters 1-4 of Advanced ShayHowe. Updated Ankiweb cards.
 
+Day 24: Practised typing - shift keys today which was tricky. Read more advanced ShayHowe. 2/3 of the way through Class07 LearnwithLeon - floats, responsive websites. Also considering networking skills. Started watching Independence Day - loving the binary code, old computers + phone system, large mobile phones.
+
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
