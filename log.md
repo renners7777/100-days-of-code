@@ -51,6 +51,8 @@ Days 22+23: Practiced typing using Peter's online typing course. Read chapters 1
 
 Day 24: Practised typing - shift keys today which was tricky. Read more advanced ShayHowe. 2/3 of the way through Class07 LearnwithLeon - floats, responsive websites. Also considering networking skills. Started watching Independence Day - loving the binary code, old computers + phone system, large mobile phones.
 
+Day 25: Practised typing - still learning shift keys. Finished Independence Day - virus download! Finished Class07 LearnwithLeon. Started making 15 mins of pain responsive. Arranged Coffee Chat for weekend. 
+
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
