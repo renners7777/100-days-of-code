@@ -53,6 +53,8 @@ Day 24: Practised typing - shift keys today which was tricky. Read more advanced
 
 Day 25: Practised typing - still learning shift keys. Finished Independence Day - virus download! Finished Class07 LearnwithLeon. Started making 15 mins of pain responsive. Arranged Coffee Chat for weekend. 
 
+Day 26: Completed basic responsive layout using @media queries. 
+
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
@@ -60,3 +62,4 @@ https://codepen.io/renners7777/details/OJvjEdQ - bbc html homework (also see htt
 Day 13: https://crtechcrunchhomework.glitch.me/ + https://cr-khan-academy-homework.glitch.me/
 Day 17: https://codepen.io/renners7777/pen/NWYyPOZ + https://codepen.io/renners7777/pen/VwXQYqx + https://codepen.io/renners7777/pen/gOevbZZ
 Days 18+19: https://100devs-simple-site-lab-cr.glitch.me/
+Day 26: https://codepen.io/renners7777/pen/GRxBWRR?editors=1100
