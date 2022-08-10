@@ -53,7 +53,7 @@ Day 24: Practised typing - shift keys today which was tricky. Read more advanced
 
 Day 25: Practised typing - still learning shift keys. Finished Independence Day - virus download! Finished Class07 LearnwithLeon. Started making 15 mins of pain responsive. Arranged Coffee Chat for weekend. 
 
-Day 26: Completed basic responsive layout using @media queries. 
+Day 26: Completed basic responsive layout using @media queries. Practised tryping - shift keys. Read advanced ShayHowe - chapters 6-10.
 
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
