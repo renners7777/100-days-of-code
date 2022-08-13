@@ -55,6 +55,8 @@ Day 25: Practised typing - still learning shift keys. Finished Independence Day 
 
 Day 26: Completed basic responsive layout using @media queries. Practised tryping - shift keys. Read advanced ShayHowe - chapters 6-10.
 
+Days 27 & 28: Watched Class09 + Class10 of Learn with Leon. Practiced typing. Got through "shift" keys in "Peter's online typing course". Had coffee chat with @Andynwood79. Practised networking with a couple of 100Devs members. Started building html website from html full course with Dave Gray. 7 layouts to do by 23/08/22.
+
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
