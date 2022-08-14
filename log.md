@@ -57,6 +57,8 @@ Day 26: Completed basic responsive layout using @media queries. Practised trypin
 
 Days 27 & 28: Watched Class09 + Class10 of Learn with Leon. Practiced typing. Got through "shift" keys in "Peter's online typing course". Had coffee chat with @Andynwood79. Practised networking with a couple of 100Devs members. Started building html website from html full course with Dave Gray. 7 layouts to do by 23/08/22.
 
+Day 29: Completed the Little Taco Shop project from Dave Gray's full html course. Practised typing - still struggling with shift keys! Watched LearnwithLeon Class11 - flexbox + media queries.
+
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
@@ -65,3 +67,4 @@ Day 13: https://crtechcrunchhomework.glitch.me/ + https://cr-khan-academy-homewo
 Day 17: https://codepen.io/renners7777/pen/NWYyPOZ + https://codepen.io/renners7777/pen/VwXQYqx + https://codepen.io/renners7777/pen/gOevbZZ
 Days 18+19: https://100devs-simple-site-lab-cr.glitch.me/
 Day 26: https://codepen.io/renners7777/pen/GRxBWRR?editors=1100
+Day 29: html full course project - little taco shop: https://little-taco-shop-html-coursework.glitch.me/
