@@ -61,6 +61,8 @@ Day 29: Completed the Little Taco Shop project from Dave Gray's full html course
 
 Day 30: Completed @leonnoel Class11. Completed first of 7 layouts using html+css. 6 more to go this week! Played flex zombies for a bit. Practiced typing. 
 
+Day 31: Layout 2 of layouts week. Practiced typing at keybr.com. Flexbox Zombies part 4 completed.
+
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
