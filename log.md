@@ -65,6 +65,8 @@ Day 31: Layout 2 of layouts week. Practiced typing at keybr.com. Flexbox Zombies
 
 Days 32+33: Layouts 3 + 4 first drafts completed in html + css. 3 more to go now! Need to improve my css skills as struggling with it at the moment. Practised typing and played Flexbox Zombies again.
 
+Day 34: Practiced typing. Learnt a little about flexbox. Played Flexbox Zombies and got a little stuck! Did paper design for final 3 layouts. 
+
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
