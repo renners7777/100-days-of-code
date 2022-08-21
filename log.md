@@ -67,6 +67,8 @@ Days 32+33: Layouts 3 + 4 first drafts completed in html + css. 3 more to go now
 
 Day 34: Practiced typing. Learnt a little about flexbox. Played Flexbox Zombies and got a little stuck! Did paper design for final 3 layouts. 
 
+Days 35+36: Completed layouts using floats and flexbox. Completed Flexbox Zombies. Practiced typing.
+
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
