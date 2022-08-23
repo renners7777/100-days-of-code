@@ -69,6 +69,9 @@ Day 34: Practiced typing. Learnt a little about flexbox. Played Flexbox Zombies 
 
 Days 35+36: Completed layouts using floats and flexbox. Completed Flexbox Zombies. Practiced typing.
 
+Day 37+38: Started Javascript - watched Traversy crash course and LearnwithLeon Class12. Also put some finishing touches to layouts as I forgot to add a few things, and will need to return to them tomorrow too. Coffee chats with @J_Lieu and @Wraytheon_
+
+
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
