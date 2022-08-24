@@ -69,7 +69,9 @@ Day 34: Practiced typing. Learnt a little about flexbox. Played Flexbox Zombies 
 
 Days 35+36: Completed layouts using floats and flexbox. Completed Flexbox Zombies. Practiced typing.
 
-Day 37+38: Started Javascript - watched Traversy crash course and LearnwithLeon Class12. Also put some finishing touches to layouts as I forgot to add a few things, and will need to return to them tomorrow too. Coffee chats with @J_Lieu and @Wraytheon_
+Day 37+38: Started Javascript - watched Traversy crash course and LearnwithLeon Class12. Also put some finishing touches to layouts as I forgot to add a few things, and will need to return to them tomorrow too. Coffee chats with @J_Lieu.
+
+Day 39: Completed reading/tasks on variables and functions from https://javascript.info/. Will return to them tomorrow. Still practising typing every day. 
 
 
 **Link(s) to work**
@@ -81,3 +83,12 @@ Day 17: https://codepen.io/renners7777/pen/NWYyPOZ + https://codepen.io/renners7
 Days 18+19: https://100devs-simple-site-lab-cr.glitch.me/
 Day 26: https://codepen.io/renners7777/pen/GRxBWRR?editors=1100
 Day 29: html full course project - little taco shop: https://little-taco-shop-html-coursework.glitch.me/
+Days 27-39: Completed 7 layouts (not to perfection!):
+https://codepen.io/renners7777/full/mdxQJOJ
+https://codepen.io/renners7777/full/PoRxqWz
+https://codepen.io/renners7777/full/ExEOjmG
+https://codepen.io/renners7777/full/OJvjEdQ (not finished yet)
+https://glitch.com/edit/#!/100devs-source-wireframecr?path=index.html%3A1%3A0 (not finished yet)
+https://glitch.com/edit/#!/100devs-homework-cuisine-restaurant-cr?path=index.html%3A1%3A0 (not finished yet)
+https://glitch.com/edit/#!/100devs-homework-cuisine-restaurant-cr?path=index.html%3A1%3A0 (not finished yet)
+
