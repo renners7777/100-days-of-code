@@ -71,7 +71,9 @@ Days 35+36: Completed layouts using floats and flexbox. Completed Flexbox Zombie
 
 Day 37+38: Started Javascript - watched Traversy crash course and LearnwithLeon Class12. Also put some finishing touches to layouts as I forgot to add a few things, and will need to return to them tomorrow too. Coffee chats with @J_Lieu.
 
-Day 39: Completed reading/tasks on variables and functions from https://javascript.info/. Will return to them tomorrow. Still practising typing every day. 
+Day 39: Completed reading/tasks on variables and functions from https://javascript.info/. Will return to them tomorrow. Still practising typing every day.
+
+Day 40: Completed Class13 @LeonNoel - learnt more Javascript.
 
 
 **Link(s) to work**
@@ -91,4 +93,4 @@ https://codepen.io/renners7777/full/OJvjEdQ (not finished yet)
 https://glitch.com/edit/#!/100devs-source-wireframecr?path=index.html%3A1%3A0 (not finished yet)
 https://glitch.com/edit/#!/100devs-homework-cuisine-restaurant-cr?path=index.html%3A1%3A0 (not finished yet)
 https://glitch.com/edit/#!/100devs-homework-cuisine-restaurant-cr?path=index.html%3A1%3A0 (not finished yet)
-
+25/08/22 - submitted the following three JS projects: https://glitch.com/edit/#!/not-so-great-calculator-cr-100devs?path=index.html%3A1%3A0, https://glitch.com/edit/#!/background-picker-cr-100devs?path=index.html%3A1%3A0, https://glitch.com/edit/#!/class-weekend-boring-cr-100devs?path=index.html%3A1%3A0
