@@ -75,6 +75,8 @@ Day 39: Completed reading/tasks on variables and functions from https://javascri
 
 Day 40: Completed Class13 @LeonNoel - learnt more Javascript.
 
+Days 41, 42 + 43: Doing some html + CSS spaced repetition by building projects from freecodecamp. Read about Javascript functions-expressions and arrow functions. Practiced typing.
+
 
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
@@ -94,3 +96,4 @@ https://glitch.com/edit/#!/100devs-source-wireframecr?path=index.html%3A1%3A0 (n
 https://glitch.com/edit/#!/100devs-homework-cuisine-restaurant-cr?path=index.html%3A1%3A0 (not finished yet)
 https://glitch.com/edit/#!/100devs-homework-cuisine-restaurant-cr?path=index.html%3A1%3A0 (not finished yet)
 25/08/22 - submitted the following three JS projects: https://glitch.com/edit/#!/not-so-great-calculator-cr-100devs?path=index.html%3A1%3A0, https://glitch.com/edit/#!/background-picker-cr-100devs?path=index.html%3A1%3A0, https://glitch.com/edit/#!/class-weekend-boring-cr-100devs?path=index.html%3A1%3A0
+28-08-22: 2 x freecode camp projects submitted: https://codepen.io/renners7777/pen/ExQVggW + https://codepen.io/renners7777/pen/ExQPdoE
