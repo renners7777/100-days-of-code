@@ -77,6 +77,9 @@ Day 40: Completed Class13 @LeonNoel - learnt more Javascript.
 
 Days 41, 42 + 43: Doing some html + CSS spaced repetition by building projects from freecodecamp. Read about Javascript functions-expressions and arrow functions. Practiced typing.
 
+Day 44: #100Devs #100DaysOfCode 
+Practiced JS with fellow #100Devs member @carinadieseldev. Practiced some CSS. Watched @leonnoel class14.
+
 
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
