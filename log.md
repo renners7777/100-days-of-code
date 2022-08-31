@@ -82,6 +82,8 @@ Practiced JS with fellow #100Devs member @carinadieseldev. Practiced some CSS. W
 
 Day 45: Completed watching Class 14 @ leonnoel. Practiced JS functions. Planned next few weeks learning - tomorrow I am going to watch Class 15 and plan networking for the next month. To ALL SOFTWARE ENGINEERS ON TWITTER - I am available for coffee chats whenever you are free. DM me to arrange please:)
 
+Day 46: Watched Class15 @leonnoel about freelancing. 
+
 
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
