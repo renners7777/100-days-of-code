@@ -84,6 +84,8 @@ Day 45: Completed watching Class 14 @ leonnoel. Practiced JS functions. Planned 
 
 Day 46: Watched Class15 @leonnoel about freelancing. 
 
+Day 47: Updated social media profiles with a view to attracting freelancing clients. I need to put the finishing touches to my portfolio website before deploying that on Netlify. Practiced some typing. For the next 7 days, I will be playing with Javascript!
+
 
 **Link(s) to work**
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
