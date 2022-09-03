@@ -86,8 +86,10 @@ Day 46: Watched Class15 @leonnoel about freelancing.
 
 Day 47: Updated social media profiles with a view to attracting freelancing clients. I need to put the finishing touches to my portfolio website before deploying that on Netlify. Practiced some typing. For the next 7 days, I will be playing with Javascript!
 
+Days 48+49: I have been working on my portfolio page - need to spruce up some of my current projects and create some more personal ones before uploading to Netlify. I have asked my manager for a conversation about freelancing as a software engineer next week which is a massive step for me! 
 
-**Link(s) to work**
+
+**Link(s) to work** 
 https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
 https://codepen.io/renners7777/details/OJvjEdQ - bbc html homework (also see https://github.com/renners7777/netlify BBC Workspace for the code).
