@@ -88,9 +88,11 @@ Day 47: Updated social media profiles with a view to attracting freelancing clie
 
 Days 48+49: I have been working on my portfolio page - need to spruce up some of my current projects and create some more personal ones before uploading to Netlify. I have asked my manager for a conversation about freelancing as a software engineer next week which is a massive step for me! 
 
+Days 50+51: Practised Javascript functions and deleting and re-doing javascript work to ensure it sinks in. Added more work to my portfolio. CODEWITH online meetup tonight.
+
 
 **Link(s) to work** 
-https://codepen.io/renners7777/pen/ExQPdoE - freecode camp survey form not completed yet!
+https://codepen.io/renners7777/full/ExQPdoE - freecodecamp survey form.
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
 https://codepen.io/renners7777/details/OJvjEdQ - bbc html homework (also see https://github.com/renners7777/netlify BBC Workspace for the code).
 Day 13: https://crtechcrunchhomework.glitch.me/ + https://cr-khan-academy-homework.glitch.me/
@@ -108,3 +110,7 @@ https://glitch.com/edit/#!/100devs-homework-cuisine-restaurant-cr?path=index.htm
 https://glitch.com/edit/#!/100devs-homework-cuisine-restaurant-cr?path=index.html%3A1%3A0 (not finished yet)
 25/08/22 - submitted the following three JS projects: https://glitch.com/edit/#!/not-so-great-calculator-cr-100devs?path=index.html%3A1%3A0, https://glitch.com/edit/#!/background-picker-cr-100devs?path=index.html%3A1%3A0, https://glitch.com/edit/#!/class-weekend-boring-cr-100devs?path=index.html%3A1%3A0
 28-08-22: 2 x freecode camp projects submitted: https://codepen.io/renners7777/pen/ExQVggW + https://codepen.io/renners7777/pen/ExQPdoE
+05/09/22: 
+- Some simple javascript functions on codepen - https://codepen.io/renners7777/pen/eYrmxgG.
+- My first go with WIX! https://chrisrenshaw79.wixsite.com/socialcareexample
+- Portfolio website under construction:)
