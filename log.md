@@ -90,6 +90,9 @@ Days 48+49: I have been working on my portfolio page - need to spruce up some of
 
 Days 50+51: Practised Javascript functions and deleting and re-doing javascript work to ensure it sinks in. Added more work to my portfolio. CODEWITH online meetup tonight.
 
+Day 52(06/09/22): Created the following - https://glitch.com/edit/#!/background-picker-cr-100devs?path=index.html%3A1%3A0. Color picker based off of a guitar hero guitar!
+
+
 
 **Link(s) to work** 
 https://codepen.io/renners7777/full/ExQPdoE - freecodecamp survey form.
