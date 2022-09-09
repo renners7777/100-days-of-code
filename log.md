@@ -92,6 +92,8 @@ Days 50+51: Practised Javascript functions and deleting and re-doing javascript 
 
 Day 52(06/09/22): Created the following - https://glitch.com/edit/#!/background-picker-cr-100devs?path=index.html%3A1%3A0. Color picker based off of a guitar hero guitar!
 
+Days 53-55: Watched Class16 @LeonNoel - Javascript Loops. Had day off yesterday in respect of the Queen.
+
 
 
 **Link(s) to work** 
