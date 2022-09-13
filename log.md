@@ -94,6 +94,8 @@ Day 52(06/09/22): Created the following - https://glitch.com/edit/#!/background-
 
 Days 53-55: Watched Class16 @LeonNoel - Javascript Loops. Had day off yesterday in respect of the Queen.
 
+Days 56-59: Anki practice; typing practice; Started Javascript course on CodeAcademy; Read first 2 chapters of Eloquent Javascript and completed tasks. Practised some html/css on freecodecamp.
+
 
 
 **Link(s) to work** 
