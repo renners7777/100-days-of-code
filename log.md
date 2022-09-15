@@ -96,6 +96,8 @@ Days 53-55: Watched Class16 @LeonNoel - Javascript Loops. Had day off yesterday 
 
 Days 56-59: Anki practice; typing practice; Started Javascript course on CodeAcademy; Read first 2 chapters of Eloquent Javascript and completed tasks. Practised some html/css on freecodecamp.
 
+Days 60-61: Typing practice going well - up to 50wpm from 30wpm in 2-3 weeks so quite happy with that. Learning Javascript on Code Academy: lessons 1-6. On lesson 2 currently - projects quite tricky but finished the eight ball project today. 
+
 
 
 **Link(s) to work** 
