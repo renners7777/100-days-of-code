@@ -98,7 +98,7 @@ Days 56-59: Anki practice; typing practice; Started Javascript course on CodeAca
 
 Days 60-61: Typing practice going well - up to 50wpm from 30wpm in 2-3 weeks so quite happy with that. Learning Javascript on Code Academy: lessons 1-6. On lesson 2 currently - projects quite tricky but finished the eight ball project today. 
 
-
+Days 62+63: Watched @traversymedia Git and Github crash course for beginners. Read chapter 2 of Eloquent Javascript and struggled through tasks - FizzBuzz and Chessboard had me stumped so, despite thinking through hard, had to cheat with the solutions!
 
 **Link(s) to work** 
 https://codepen.io/renners7777/full/ExQPdoE - freecodecamp survey form.
