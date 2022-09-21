@@ -100,6 +100,8 @@ Days 60-61: Typing practice going well - up to 50wpm from 30wpm in 2-3 weeks so 
 
 Days 62+63: Watched @traversymedia Git and Github crash course for beginners. Read chapter 2 of Eloquent Javascript and struggled through tasks - FizzBuzz and Chessboard had me stumped so, despite thinking through hard, had to cheat with the solutions!
 
+Days 64-66: Completed lesson 2 of CodeAcademy Javascript Course. Read part 1 of https://jwiegley.github.io/git-from-the-bottom-up/. Branching out a little into learnweb3.io just for fun:)
+
 **Link(s) to work** 
 https://codepen.io/renners7777/full/ExQPdoE - freecodecamp survey form.
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
