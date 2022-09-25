@@ -102,6 +102,8 @@ Days 62+63: Watched @traversymedia Git and Github crash course for beginners. Re
 
 Days 64-66: Completed lesson 2 of CodeAcademy Javascript Course. Read part 1 of https://jwiegley.github.io/git-from-the-bottom-up/. Branching out a little into learnweb3.io just for fun:)
 
+Days 67+68: I have completed lessons 1-6 of JS at CodeAcademy & have completed chapter 3 of Eloquent Javascript. I have completed more reading on the use of Git.
+
 **Link(s) to work** 
 https://codepen.io/renners7777/full/ExQPdoE - freecodecamp survey form.
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
