@@ -104,6 +104,8 @@ Days 64-66: Completed lesson 2 of CodeAcademy Javascript Course. Read part 1 of 
 
 Days 67+68: I have completed lessons 1-6 of JS at CodeAcademy & have completed chapter 3 of Eloquent Javascript. I have completed more reading on the use of Git.
 
+Day 69: Active recall - played Flexbox Froggy and Grid Garden on https://codepip.com/. 
+
 **Link(s) to work** 
 https://codepen.io/renners7777/full/ExQPdoE - freecodecamp survey form.
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
