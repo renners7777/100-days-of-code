@@ -106,6 +106,8 @@ Days 67+68: I have completed lessons 1-6 of JS at CodeAcademy & have completed c
 
 Day 69: Active recall - played Flexbox Froggy and Grid Garden on https://codepip.com/. 
 
+Day 70: Summary - spent the last 3-4 weeks procrastinating and getting involved in different projects with Coding with Drew and, ironically, getting involved in an open source project on Github Drewlearns/OS_100days creating a reminder app to ensure people record their 100DaysofCode work every day!
+
 **Link(s) to work** 
 https://codepen.io/renners7777/full/ExQPdoE - freecodecamp survey form.
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
