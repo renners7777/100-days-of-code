@@ -108,6 +108,8 @@ Day 69: Active recall - played Flexbox Froggy and Grid Garden on https://codepip
 
 Day 70: Summary - spent the last 3-4 weeks procrastinating and getting involved in different projects with Coding with Drew and, ironically, getting involved in an open source project on Github Drewlearns/OS_100days creating a reminder app to ensure people record their 100DaysofCode work every day!
 
+05/11/22 - Day 71: I have spent the last 6-8 weeks learning more about OpenSource, git, bash, Web3 but with very little to actually show for it. Need to get back on track with @LeonNoel software engineering course. Practiced typing. Learning about Javascript arrays and objects. Finished watching class 21 and watched class 22.
+
 **Link(s) to work** 
 https://codepen.io/renners7777/full/ExQPdoE - freecodecamp survey form.
 19/07/22 - https://codepen.io/renners7777/pen/XWERRvp - Class02 #100Devs brownie.html.
